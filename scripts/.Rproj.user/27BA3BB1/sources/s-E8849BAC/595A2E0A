@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532273465657.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "595A2E0A",
+    "lastKnownWriteTime" : 1532277011,
+    "last_content_update" : 1532279336938,
+    "path" : "~/Documents/kaggle/ecommerce/scripts/eda.R",
+    "project_path" : "eda.R",
+    "properties" : {
+        "cursorPosition" : "20,46",
+        "scrollLine" : "4",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
